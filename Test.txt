@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-99999
-=======
-10
->>>>>>> branch 'master' of https://github.com/jatinbansalprogrammer/Brian.git
+1
